@@ -16,7 +16,7 @@ Once the environment is created, type the following command:
 
 Then, run the following command:
 
-``python h3conversion.py /path/to/h3.csv --h3_column "[COLUMN with H3 ID]" --output /path/to/desired/output.geojson`` (or .shp)
+``python h3conversion.py /path/to/h3.csv --h3_column [COLUMN with H3 ID] --output /path/to/desired/output.geojson`` (or .shp)
 
 Sample Dataset Command Run:
 (from within your h3toSHP directory)
